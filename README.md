@@ -26,6 +26,6 @@
  
  <br>
 
-![Snake animation](https://github.com/eusouch/eusouch/blob/output/github-contribution-grid-snake.svg?)
+![Snake animation](https://github.com/eusouch/eusouch/blob/main/.github/workflows/snake.yml)
 
 </div>
