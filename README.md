@@ -25,7 +25,9 @@
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  
  <br>
-
-![Snake animation](https://github.com/eusouch/eusouch/blob/main/.github/workflows/snake.yml)
+ 
+<p align="center">
+  <img src="https://github.com/eusouch/eusouch/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 </div>
