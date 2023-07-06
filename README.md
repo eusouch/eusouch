@@ -1,11 +1,11 @@
-## <picture><img  src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 - Sou o Carlos Henrique, tenho 26 anos, casado, morando no interior de São Paulo.
 - Atualmente aprendendo Desenvolvimento Web por conta própria.
 - Sonho em rodar o mundo por meio da programação.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Status
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Status
 <div align=center>
   <a href="https://github.com/eusouch">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eusouch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,6 @@
  
  <br>
 
- 
-  ![Snake animation](https://github.com/eusouch/eusouch/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eusouch/eusouch/blob/output/github-contribution-grid-snake.svg?)
 
 </div>
