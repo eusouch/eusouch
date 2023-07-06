@@ -26,8 +26,4 @@
  
  <br>
  
-<p align="center">
-  <img src="https://github.com/eusouch/eusouch/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 </div>
